@@ -138,7 +138,7 @@ parkour:AddToggle({
             variables.comboTime = math.huge
             variables.comboHealth = math.huge;
             variables.comboXp = math.huge;
-            variables.comboLevel = 10;
+            variables.comboLevel = 15;
             wait();
         end;
     end;
